@@ -1,0 +1,125 @@
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\курсовая\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\курсовая\Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\курсовая\ВладПоследнее\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\курсовая\Влад04.03\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\курсовая\Инна-Влад\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Удали\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Удали — копия (3)\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\мой\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\моя 2\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\моя\Kursach\Kursach\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Корягин\Программы\11 вариант\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
